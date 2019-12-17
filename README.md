@@ -4,7 +4,7 @@
 
 A repository of code from a machine learning project to classify Jane Austen and J.K. Rowling quotes. Written in jupyter notebooks.
 
-A full write up in Medium.com coming soon!
+A full write up at medium.com/@kscherich
 
 ## Structure
 
